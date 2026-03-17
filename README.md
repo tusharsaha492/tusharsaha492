@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a recent Computer Science graduate with a strong foundation in frontend development and software engineering fundamentals. I have hands-on experience building responsive web applications using HTML, CSS, JavaScript, React, and Django, along with a solid understanding of data structures and backend integration. Through academic projects and technical training, I have developed a problem-solving mindset and a passion for creating clean, user-friendly, and scalable interfaces. I am eager to contribute to a collaborative engineering team where I can grow as a software engineer and build impactful products.
+I am a recent Computer Science Engineering graduate with a strong foundation in full stack development and software engineering fundamentals. I have hands-on experience building responsive web applications using HTML, CSS, JavaScript, React, and Django, along with a solid understanding of data structures and backend integration. Through academic projects and technical training, I have developed a problem-solving mindset and a passion for creating clean, user-friendly, and scalable interfaces. I am eager to contribute to a collaborative engineering team where I can grow as a software engineer and build impactful products.
 
 
 ## 🌐 Socials:
